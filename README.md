@@ -24,5 +24,5 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/bossbucks-bot.git](https://github.com/YOUR_USERNAME/bossbucks-bot.git)
-   cd bossbucks-bot
+   git clone [https://github.com/itsupernova/boss-bucks.git](https://github.com/itsupernova/boss-bucks.git)
+   cd boss-bucks
